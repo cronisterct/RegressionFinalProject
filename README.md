@@ -1,1 +1,2 @@
-# RegressionFinalProject
+# Regression Final Project
+Basketball is a game of evolution and diversification: today’s game is very different from 10 years ago; different leagues have their own playing styles; one player’s performance can vary hugely in regular season and playoffs. Therefore, we were very interested in seeing how these factors affect players’ key performance index – Points scored per game. We’ll mostly be using Multiple Linear Regression approach to find answers to this problem.
